@@ -1,0 +1,40 @@
+
+.ц {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background: rgb(49, 19, 19);
+    width: 636px;
+    height: 116px;
+    font-size: 64px;
+    margin-top: 22px;
+}
+
+.к {
+    width: 1000px;
+    height: 638px;
+    background-color: black;
+    border: 10px solid red;
+    color: black;
+    margin-top: 55px;
+    font-size: 36px;
+    font-weight: 700;
+    
+}
+
+.е {
+    background: rgb(31, 232, 183);
+    width: 896px;
+    height: 259px;
+    margin-top: 45px;
+    
+}
+
+.н {
+    background: rgb(31, 232, 183);
+    width: 896px;
+    height: 259px;
+    margin-top: 30px;
+}
+

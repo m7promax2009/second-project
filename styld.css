@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(112, 255, 126);
+}
+
+.q {
+    width: 400px;
+    text-align: center;
+    padding: 1px 25px;
+    border-radius: 20px;
+    background: rgb(0, 30, 189);
+    margin: 0 auto;
+    margin-top: 31px;
+
+}
+.q>p {
+    color: aliceblue;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.w {
+    border-radius: 20px;
+    background: rgb(4, 4, 4);
+    width: 451px;
+    margin: 17px auto;
+    padding: 69px 0;
+}
+.w>div {
+    width: 200px;
+    height: 200px;
+}
+.red {
+    background-color: red;
+    border-radius: 50%;
+    border: 5px solid rgb(40, 225, 69);
+    margin: 0 auto;
+}
+.yellow {
+    background-color: rgb(255, 251, 0);
+    border-radius: 50%;
+    border: 5px solid rgb(40, 225, 69);
+    margin: 25px auto; 
+}
+.green {
+    background-color: rgb(68, 255, 0);
+    border-radius: 50%;
+    border: 5px solid rgb(40, 225, 69);
+    margin: 0 auto;
+}
